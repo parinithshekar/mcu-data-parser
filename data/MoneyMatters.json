@@ -1,0 +1,381 @@
+{
+    "Iron Man": [
+        {
+            "Budget": "$140,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$319,034,126"
+        },
+        {
+            "Opening weekend US & Canada": "$98,618,668"
+        },
+        {
+            "Gross worldwide": "$585,796,247"
+        }
+    ],
+    "The Incredible Hulk": [
+        {
+            "Budget": "$150,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$134,806,913"
+        },
+        {
+            "Opening weekend US & Canada": "$55,414,050"
+        },
+        {
+            "Gross worldwide": "$264,770,996"
+        }
+    ],
+    "Iron Man 2": [
+        {
+            "Budget": "$200,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$312,433,331"
+        },
+        {
+            "Opening weekend US & Canada": "$128,122,480"
+        },
+        {
+            "Gross worldwide": "$623,933,331"
+        }
+    ],
+    "Thor": [
+        {
+            "Budget": "$150,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$181,030,624"
+        },
+        {
+            "Opening weekend US & Canada": "$65,723,338"
+        },
+        {
+            "Gross worldwide": "$449,326,618"
+        }
+    ],
+    "Captain America: The First Avenger": [
+        {
+            "Budget": "$140,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$176,654,505"
+        },
+        {
+            "Opening weekend US & Canada": "$65,058,524"
+        },
+        {
+            "Gross worldwide": "$370,569,774"
+        }
+    ],
+    "Marvel One-Shot: The Consultant": [
+        {
+            "Budget": "$500,000 (estimated)"
+        }
+    ],
+    "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer": [
+        {
+            "Budget": "$500,000 (estimated)"
+        }
+    ],
+    "The Avengers": [
+        {
+            "Budget": "$220,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$623,357,910"
+        },
+        {
+            "Opening weekend US & Canada": "$207,438,708"
+        },
+        {
+            "Gross worldwide": "$1,518,815,515"
+        }
+    ],
+    "Marvel One-Shot: Item 47": [],
+    "Iron Man Three": [
+        {
+            "Budget": "$200,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$409,013,994"
+        },
+        {
+            "Opening weekend US & Canada": "$174,144,585"
+        },
+        {
+            "Gross worldwide": "$1,214,811,252"
+        }
+    ],
+    "Marvel One-Shot: Agent Carter": [],
+    "Agents of S.H.I.E.L.D.": [],
+    "Thor: The Dark World": [
+        {
+            "Budget": "$170,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$206,362,140"
+        },
+        {
+            "Opening weekend US & Canada": "$85,737,841"
+        },
+        {
+            "Gross worldwide": "$644,783,140"
+        }
+    ],
+    "Marvel One-Shot: All Hail the King": [],
+    "Captain America: The Winter Soldier": [
+        {
+            "Budget": "$170,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$259,766,572"
+        },
+        {
+            "Opening weekend US & Canada": "$95,023,721"
+        },
+        {
+            "Gross worldwide": "$714,421,503"
+        }
+    ],
+    "Guardians of the Galaxy": [
+        {
+            "Budget": "$170,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$333,718,600"
+        },
+        {
+            "Opening weekend US & Canada": "$94,320,883"
+        },
+        {
+            "Gross worldwide": "$773,350,147"
+        }
+    ],
+    "Agent Carter": [],
+    "Daredevil": [],
+    "Avengers: Age of Ultron": [
+        {
+            "Budget": "$250,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$459,005,868"
+        },
+        {
+            "Opening weekend US & Canada": "$191,271,109"
+        },
+        {
+            "Gross worldwide": "$1,402,809,540"
+        }
+    ],
+    "WHIH News Front": [],
+    "Ant-Man": [
+        {
+            "Budget": "$130,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$180,202,163"
+        },
+        {
+            "Opening weekend US & Canada": "$57,225,526"
+        },
+        {
+            "Gross worldwide": "$519,311,965"
+        }
+    ],
+    "Jessica Jones": [],
+    "Captain America: Civil War": [
+        {
+            "Budget": "$250,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$408,084,349"
+        },
+        {
+            "Opening weekend US & Canada": "$179,139,142"
+        },
+        {
+            "Gross worldwide": "$1,153,337,496"
+        }
+    ],
+    "Luke Cage": [],
+    "Doctor Strange": [
+        {
+            "Budget": "$165,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$232,641,920"
+        },
+        {
+            "Opening weekend US & Canada": "$85,058,311"
+        },
+        {
+            "Gross worldwide": "$677,796,076"
+        }
+    ],
+    "Agents of S.H.I.E.L.D.: Slingshot": [],
+    "Iron Fist": [],
+    "Guardians of the Galaxy Vol. 2": [
+        {
+            "Budget": "$200,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$389,813,101"
+        },
+        {
+            "Opening weekend US & Canada": "$146,510,104"
+        },
+        {
+            "Gross worldwide": "$863,756,051"
+        }
+    ],
+    "Spider-Man: Homecoming": [
+        {
+            "Budget": "$175,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$334,201,140"
+        },
+        {
+            "Opening weekend US & Canada": "$117,027,503"
+        },
+        {
+            "Gross worldwide": "$880,166,924"
+        }
+    ],
+    "The Defenders": [],
+    "Inhumans": [],
+    "Thor: Ragnarok": [
+        {
+            "Budget": "$180,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$315,058,289"
+        },
+        {
+            "Opening weekend US & Canada": "$122,744,989"
+        },
+        {
+            "Gross worldwide": "$853,983,911"
+        }
+    ],
+    "The Punisher": [],
+    "Marvels Runaways": [],
+    "Black Panther": [
+        {
+            "Budget": "$200,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$700,426,566"
+        },
+        {
+            "Opening weekend US & Canada": "$202,003,951"
+        },
+        {
+            "Gross worldwide": "$1,347,597,973"
+        }
+    ],
+    "Avengers: Infinity War": [
+        {
+            "Budget": "$321,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$678,815,482"
+        },
+        {
+            "Opening weekend US & Canada": "$257,698,183"
+        },
+        {
+            "Gross worldwide": "$2,048,359,754"
+        }
+    ],
+    "Cloak & Dagger": [],
+    "Ant-Man and the Wasp": [
+        {
+            "Budget": "$162,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$216,648,740"
+        },
+        {
+            "Opening weekend US & Canada": "$75,812,205"
+        },
+        {
+            "Gross worldwide": "$622,674,139"
+        }
+    ],
+    "Captain Marvel": [
+        {
+            "Budget": "$160,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$426,829,839"
+        },
+        {
+            "Opening weekend US & Canada": "$153,433,423"
+        },
+        {
+            "Gross worldwide": "$1,128,462,972"
+        }
+    ],
+    "Avengers: Endgame": [
+        {
+            "Budget": "$356,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$858,373,000"
+        },
+        {
+            "Opening weekend US & Canada": "$357,115,007"
+        },
+        {
+            "Gross worldwide": "$2,797,501,328"
+        }
+    ],
+    "Spider-Man: Far from Home": [
+        {
+            "Budget": "$160,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$390,532,085"
+        },
+        {
+            "Opening weekend US & Canada": "$92,579,212"
+        },
+        {
+            "Gross worldwide": "$1,131,927,996"
+        }
+    ],
+    "Helstrom": [],
+    "Marvel Studios: Legends": [],
+    "WandaVision": [],
+    "The Falcon and the Winter Soldier": [],
+    "Loki": [],
+    "Black Widow": [
+        {
+            "Budget": "$200,000,000 (estimated)"
+        },
+        {
+            "Gross US & Canada": "$183,651,655"
+        },
+        {
+            "Opening weekend US & Canada": "$80,366,312"
+        },
+        {
+            "Gross worldwide": "$379,631,351"
+        }
+    ],
+    "What If...?": [],
+    "Shang-Chi and the Legend of the Ten Rings": [
+        {
+            "Gross US & Canada": "$224,543,292"
+        },
+        {
+            "Opening weekend US & Canada": "$75,388,688"
+        },
+        {
+            "Gross worldwide": "$431,956,458"
+        }
+    ]
+}
