@@ -1,0 +1,402 @@
+[
+    {
+        "movie": "Iron Man",
+        "character": "Tony Stark / Iron Man",
+        "screentime": "77:15"
+    },
+    {
+        "movie": "Iron Man",
+        "character": "Director Nick Fury",
+        "screentime": ":15"
+    },
+    {
+        "movie": "The Incredible Hulk",
+        "character": "Tony Stark / Iron Man",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "Tony Stark / Iron Man",
+        "screentime": "61:15"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "Director Nick Fury",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "Thor",
+        "character": "Thor",
+        "screentime": "43:15"
+    },
+    {
+        "movie": "Thor",
+        "character": "Loki",
+        "screentime": "21:15"
+    },
+    {
+        "movie": "Thor",
+        "character": "Director Nick Fury",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Captain America: The First Avenger",
+        "character": "Director Nick Fury",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Marvel One-Shot: The Consultant",
+        "character": "Tony Stark / Iron Man",
+        "screentime": ":30"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Tony Stark / Iron Man",
+        "screentime": "31:45"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Loki",
+        "screentime": "21:30"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Director Nick Fury",
+        "screentime": "18:15"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Thor",
+        "screentime": "18"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Thanos",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Iron Man Three",
+        "character": "Tony Stark / Iron Man",
+        "screentime": "62:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Director Nick Fury",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Thor",
+        "screentime": "35"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Loki",
+        "screentime": "17:30"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Director Nick Fury",
+        "screentime": "15:30"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Gamora",
+        "screentime": "31"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Rocket",
+        "screentime": "19:30"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Drax",
+        "screentime": "18"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Groot",
+        "screentime": "14:45"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Nebula",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Thanos",
+        "screentime": "1"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Tony Stark / Iron Man",
+        "screentime": "27:15"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Ultron",
+        "screentime": "17"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Thor",
+        "screentime": "13:15"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Vision",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Thanos",
+        "screentime": ":15"
+    },
+    {
+        "movie": "WHIH News Front",
+        "character": "Tony Stark / Iron Man",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Tony Stark / Iron Man",
+        "screentime": "37:15"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Vision",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Doctor Strange",
+        "character": "Thor",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Gamora",
+        "screentime": "24"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Rocket",
+        "screentime": "19:45"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Drax",
+        "screentime": "16:30"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Nebula",
+        "screentime": "10:30"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Tony Stark / Iron Man",
+        "screentime": "8"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Thor",
+        "screentime": "58:45"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Loki",
+        "screentime": "13:30"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Thanos",
+        "screentime": "31"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Gamora",
+        "screentime": "20"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Tony Stark / Iron Man",
+        "screentime": "17"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Thor",
+        "screentime": "15:15"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Vision",
+        "screentime": "10"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Rocket",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Drax",
+        "screentime": "5:45"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Loki",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Nebula",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Tony Stark / Iron Man",
+        "screentime": "34:45"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Thor",
+        "screentime": "21:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Nebula",
+        "screentime": "16"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Thanos",
+        "screentime": "12:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Rocket",
+        "screentime": "8:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Gamora",
+        "screentime": "4:45"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Loki",
+        "screentime": "1"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Drax",
+        "screentime": "1"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Tony Stark / Iron Man",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Tony Stark / Iron Man",
+        "screentime": "8"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Vision",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Thanos",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Ultron",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Rocket",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Gamora",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Drax",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Groot",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Nebula",
+        "screentime": ":15"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Vision",
+        "screentime": "80"
+    },
+    {
+        "movie": "Loki",
+        "character": "Thor",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Loki",
+        "character": "Tony Stark / Iron Man",
+        "screentime": "1"
+    },
+    {
+        "movie": "Loki",
+        "character": "Thanos",
+        "screentime": ":15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Ultron",
+        "screentime": "15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Tony Stark / Iron Man",
+        "screentime": "9:30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Gamora",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Nebula",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Thanos",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Vision",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Drax",
+        "screentime": ":45"
+    }
+]
