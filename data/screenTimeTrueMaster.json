@@ -1,0 +1,6852 @@
+[
+    {
+        "movie": "Iron Man",
+        "character": "Tony Stark \/ Iron Man",
+        "screentime": "77:15"
+    },
+    {
+        "movie": "Iron Man",
+        "character": "Pepper Potts",
+        "screentime": "23:15"
+    },
+    {
+        "movie": "Iron Man",
+        "character": "Obadiah Stane \/ Iron Monger",
+        "screentime": "22"
+    },
+    {
+        "movie": "Iron Man",
+        "character": "Professor Ho Yinsen",
+        "screentime": "10:45"
+    },
+    {
+        "movie": "Iron Man",
+        "character": "Lt. Col. James \"Rhodey\" Rhodes",
+        "screentime": "8:15"
+    },
+    {
+        "movie": "Iron Man",
+        "character": "Raza",
+        "screentime": "6"
+    },
+    {
+        "movie": "Iron Man",
+        "character": "Agent Phil Coulson",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "Iron Man",
+        "character": "Christine Everhart",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "Iron Man",
+        "character": "Abu Bakaar",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Iron Man",
+        "character": "Harold \"Happy\" Hogan",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Iron Man",
+        "character": "William Ginter Riva",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Iron Man",
+        "character": "Director Nick Fury",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Iron Man",
+        "character": "J.A.R.V.I.S.",
+        "screentime": "v"
+    },
+    {
+        "movie": "The Incredible Hulk",
+        "character": "Dr. Bruce Banner \/ The Hulk",
+        "screentime": "51:45"
+    },
+    {
+        "movie": "The Incredible Hulk",
+        "character": "Dr. Betty Ross",
+        "screentime": "27"
+    },
+    {
+        "movie": "The Incredible Hulk",
+        "character": "Emil Blonsky \/ The Abomination",
+        "screentime": "18:30"
+    },
+    {
+        "movie": "The Incredible Hulk",
+        "character": "General Thaddeus Ross",
+        "screentime": "15"
+    },
+    {
+        "movie": "The Incredible Hulk",
+        "character": "Samuel Sterns",
+        "screentime": "7:30"
+    },
+    {
+        "movie": "The Incredible Hulk",
+        "character": "Dr. Leonard Samson",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "The Incredible Hulk",
+        "character": "Maj. Kathleen Sparr",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "The Incredible Hulk",
+        "character": "Tony Stark \/ Iron Man",
+        "screentime": ":30"
+    },
+    {
+        "movie": "The Incredible Hulk",
+        "character": "Roger Harrington",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "Tony Stark \/ Iron Man",
+        "screentime": "61:15"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "Ivan Vanko \/ Whiplash",
+        "screentime": "20:45"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "Lt. Col. James \"Rhodey\" Rhodes \/ War Machine",
+        "screentime": "18:45"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "Pepper Potts",
+        "screentime": "17:30"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "Justin Hammer",
+        "screentime": "16:30"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "Natasha Romanoff \/ Black Widow",
+        "screentime": "9:15"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "Director Nick Fury",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "Happy Hogan",
+        "screentime": "4:15"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "Senator Stern",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "Howard Stark",
+        "screentime": "2"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "Agent Phil Coulson",
+        "screentime": "2"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "Christine Everhart",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "Anton Vanko",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "Peter Parker",
+        "screentime": "x"
+    },
+    {
+        "movie": "Iron Man 2",
+        "character": "J.A.R.V.I.S.",
+        "screentime": "v"
+    },
+    {
+        "movie": "Thor",
+        "character": "Thor",
+        "screentime": "43:15"
+    },
+    {
+        "movie": "Thor",
+        "character": "Loki",
+        "screentime": "21:15"
+    },
+    {
+        "movie": "Thor",
+        "character": "Dr. Jane Foster",
+        "screentime": "21"
+    },
+    {
+        "movie": "Thor",
+        "character": "Dr. Erik Selvig",
+        "screentime": "13:45"
+    },
+    {
+        "movie": "Thor",
+        "character": "Odin",
+        "screentime": "11:15"
+    },
+    {
+        "movie": "Thor",
+        "character": "Darcy Lewis",
+        "screentime": "8:30"
+    },
+    {
+        "movie": "Thor",
+        "character": "Sif",
+        "screentime": "8:15"
+    },
+    {
+        "movie": "Thor",
+        "character": "Volstagg",
+        "screentime": "7"
+    },
+    {
+        "movie": "Thor",
+        "character": "Fandral",
+        "screentime": "7"
+    },
+    {
+        "movie": "Thor",
+        "character": "Hogun",
+        "screentime": "6:30"
+    },
+    {
+        "movie": "Thor",
+        "character": "Heimdall",
+        "screentime": "4:15"
+    },
+    {
+        "movie": "Thor",
+        "character": "Agent Phil Coulson",
+        "screentime": "4"
+    },
+    {
+        "movie": "Thor",
+        "character": "Laufey",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Thor",
+        "character": "Frigga",
+        "screentime": "2"
+    },
+    {
+        "movie": "Thor",
+        "character": "Agent Jasper Sitwell",
+        "screentime": "1"
+    },
+    {
+        "movie": "Thor",
+        "character": "Director Nick Fury",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Thor",
+        "character": "Clint Barton \/ Hawkeye",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Captain America: The First Avenger",
+        "character": "Steve Rogers \/ Captain America",
+        "screentime": "56:30"
+    },
+    {
+        "movie": "Captain America: The First Avenger",
+        "character": "Agent Peggy Carter",
+        "screentime": "17:15"
+    },
+    {
+        "movie": "Captain America: The First Avenger",
+        "character": "Johann Schmidt \/ Red Skull",
+        "screentime": "15:30"
+    },
+    {
+        "movie": "Captain America: The First Avenger",
+        "character": "Col. Chester Phillips",
+        "screentime": "9:15"
+    },
+    {
+        "movie": "Captain America: The First Avenger",
+        "character": "Dr. Abraham Erskine",
+        "screentime": "8:30"
+    },
+    {
+        "movie": "Captain America: The First Avenger",
+        "character": "Dr. Arnim Zola",
+        "screentime": "8:15"
+    },
+    {
+        "movie": "Captain America: The First Avenger",
+        "character": "Sgt. James \"Bucky\" Barnes",
+        "screentime": "8"
+    },
+    {
+        "movie": "Captain America: The First Avenger",
+        "character": "Howard Stark",
+        "screentime": "4"
+    },
+    {
+        "movie": "Captain America: The First Avenger",
+        "character": "Heinz Kruger",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Captain America: The First Avenger",
+        "character": "Sgt. Timothy \"Dum Dum\" Dugan",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Captain America: The First Avenger",
+        "character": "Pvt. Gabe Jones",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Captain America: The First Avenger",
+        "character": "Pvt. Jim Morita",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Captain America: The First Avenger",
+        "character": "Pvt. James Montgomery Fallsworth",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Captain America: The First Avenger",
+        "character": "Pvt. Jacques Dernier",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Captain America: The First Avenger",
+        "character": "Director Nick Fury",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Marvel One-Shot: The Consultant",
+        "character": "Agent Jasper Sitwell",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Marvel One-Shot: The Consultant",
+        "character": "Agent Phil Coulson",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Marvel One-Shot: The Consultant",
+        "character": "Tony Stark \/ Iron Man",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Marvel One-Shot: The Consultant",
+        "character": "Gen. Thaddeus Ross",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+        "character": "Agent Phil Coulson",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Tony Stark \/ Iron Man",
+        "screentime": "31:45"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Steve Rogers \/ Captain America",
+        "screentime": "28:15"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Natasha Romanoff \/ Black Widow",
+        "screentime": "24:45"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Dr. Bruce Banner \/ The Hulk",
+        "screentime": "21:45"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Loki",
+        "screentime": "21:30"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Director Nick Fury",
+        "screentime": "18:15"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Thor",
+        "screentime": "18"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Clint Barton \/ Hawkeye",
+        "screentime": "12:45"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Agent Phil Coulson",
+        "screentime": "9"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Agent Maria Hill",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Pepper Potts",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Dr. Erik Selvig",
+        "screentime": "3"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "The Other",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Gen. Georgi Luchkov",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Councilwoman Malick",
+        "screentime": "1"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Councilwoman Hawley",
+        "screentime": "1"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Agent Jasper Sitwell",
+        "screentime": ":30"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "Thanos",
+        "screentime": ":15"
+    },
+    {
+        "movie": "The Avengers",
+        "character": "J.A.R.V.I.S.",
+        "screentime": "v"
+    },
+    {
+        "movie": "Marvel One-Shot: Item 47",
+        "character": "Claire",
+        "screentime": "5:45"
+    },
+    {
+        "movie": "Marvel One-Shot: Item 47",
+        "character": "Bennie",
+        "screentime": "5"
+    },
+    {
+        "movie": "Marvel One-Shot: Item 47",
+        "character": "Agent Jasper Sitwell",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Marvel One-Shot: Item 47",
+        "character": "Agent Felix Blake",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Iron Man Three",
+        "character": "Tony Stark \/ Iron Man",
+        "screentime": "62:15"
+    },
+    {
+        "movie": "Iron Man Three",
+        "character": "Pepper Potts",
+        "screentime": "18"
+    },
+    {
+        "movie": "Iron Man Three",
+        "character": "Aldrich Killian",
+        "screentime": "12"
+    },
+    {
+        "movie": "Iron Man Three",
+        "character": "Col. James \"Rhodey\" Rhodes \/ Iron Patriot",
+        "screentime": "9:45"
+    },
+    {
+        "movie": "Iron Man Three",
+        "character": "Dr. Maya Hansen",
+        "screentime": "8:45"
+    },
+    {
+        "movie": "Iron Man Three",
+        "character": "Trevor Slattery \/ \"The Mandarin\"",
+        "screentime": "7:30"
+    },
+    {
+        "movie": "Iron Man Three",
+        "character": "Harley Keener",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "Iron Man Three",
+        "character": "Happy Hogan",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "Iron Man Three",
+        "character": "Eric Savin",
+        "screentime": "6"
+    },
+    {
+        "movie": "Iron Man Three",
+        "character": "Ellen Brandt",
+        "screentime": "3"
+    },
+    {
+        "movie": "Iron Man Three",
+        "character": "President Matthew Ellis",
+        "screentime": "2"
+    },
+    {
+        "movie": "Iron Man Three",
+        "character": "Vice-President Rodriguez",
+        "screentime": "1"
+    },
+    {
+        "movie": "Iron Man Three",
+        "character": "Dr. Bruce Banner",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Iron Man Three",
+        "character": "Professor Ho Yinsen",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Iron Man Three",
+        "character": "J.A.R.V.I.S.",
+        "screentime": "v"
+    },
+    {
+        "movie": "Marvel One-Shot: Agent Carter",
+        "character": "Agent Peggy Carter",
+        "screentime": "7:30"
+    },
+    {
+        "movie": "Marvel One-Shot: Agent Carter",
+        "character": "Agent Flynn",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Marvel One-Shot: Agent Carter",
+        "character": "Howard Stark",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Marvel One-Shot: Agent Carter",
+        "character": "Sgt. Timothy \"Dum Dum\" Dugan",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel One-Shot: Agent Carter",
+        "character": "Steve Rogers \/ Captain America",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Phil Coulson",
+        "screentime": "1058:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Daisy \"Skye\" Johnson \/ Quake",
+        "screentime": "1039"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Jemma Simmons",
+        "screentime": "776"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Leo Fitz",
+        "screentime": "716:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Melinda May",
+        "screentime": "716:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Alphonso \"Mack\" Mackenzie",
+        "screentime": "553"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Grant Ward",
+        "screentime": "337:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Elena \"Yo-Yo\" Rodriguez",
+        "screentime": "295:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Deke Shaw",
+        "screentime": "206:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Barbara \"Bobbi\" Morse",
+        "screentime": "160:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Lance Hunter",
+        "screentime": "149:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Lincoln Campbell",
+        "screentime": "109:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Brig. Gen. Glenn Talbot",
+        "screentime": "105:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Dr. Holden Radcliffe",
+        "screentime": "92:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Enoch",
+        "screentime": "91"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Jeffrey Mace \/ Patriot",
+        "screentime": "85:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Raina",
+        "screentime": "82:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "AIDA",
+        "screentime": "81:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Pachakutiq \/ \"Sarge\"",
+        "screentime": "72:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent John Garrett \/ \"The Clairvoyant\"",
+        "screentime": "72:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Dr. Calvin Johnson",
+        "screentime": "71"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Robbie Reyes \/ Ghost Rider",
+        "screentime": "66:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Hive",
+        "screentime": "66:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Jiaying",
+        "screentime": "62"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Dr. Andrew Garner \/ Lash",
+        "screentime": "57:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Kasius",
+        "screentime": "55:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Antoine Triplett",
+        "screentime": "55"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Mike Peterson \/ Deathlok",
+        "screentime": "52:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "General Hale",
+        "screentime": "51"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Gideon Malick",
+        "screentime": "49:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Izel",
+        "screentime": "46:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Piper",
+        "screentime": "38:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Kara Lynn Palamas \/ Agent 33",
+        "screentime": "38:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Anton Ivanov",
+        "screentime": "37:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Ruby Hale",
+        "screentime": "37"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Rosalind Price",
+        "screentime": "35:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Nathaniel Malick",
+        "screentime": "34:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Flint",
+        "screentime": "32"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Davis",
+        "screentime": "31:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Sunil Bakshi",
+        "screentime": "31"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "LMD Melinda May",
+        "screentime": "29"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Tess",
+        "screentime": "27:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Daniel Whitehall",
+        "screentime": "27"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Robert Gonzales",
+        "screentime": "26:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Gordon",
+        "screentime": "26"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Carl \"Crusher\" Creel",
+        "screentime": "24:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Kora",
+        "screentime": "24:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Joey Gutierrez",
+        "screentime": "23:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Werner von Strucker",
+        "screentime": "22:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Robin Hinton",
+        "screentime": "22:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Dr. Marcus Benson",
+        "screentime": "22:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "J.T. James \/ Hellfire",
+        "screentime": "22:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Jaco",
+        "screentime": "22:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Sinara",
+        "screentime": "20:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Eli Morrow",
+        "screentime": "20:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Ian Quinn",
+        "screentime": "20:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Lady Sif",
+        "screentime": "20"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Wilfred Malick",
+        "screentime": "19"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Will Daniels",
+        "screentime": "19"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Snowflake",
+        "screentime": "17"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Professor Elliot Randolph",
+        "screentime": "16:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Victoria Hand",
+        "screentime": "16:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Gabe Reyes",
+        "screentime": "16"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Senator Ellen Nadeer",
+        "screentime": "15:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Giyera",
+        "screentime": "15:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Keller",
+        "screentime": "14:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Donnie Gill \/ Blizzard",
+        "screentime": "14"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Pax",
+        "screentime": "13:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Dr. Lucy Bauer",
+        "screentime": "13:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Billy Koenig",
+        "screentime": "13"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Lorelei",
+        "screentime": "12:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Anne Weaver",
+        "screentime": "12"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Qovas",
+        "screentime": "12"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Alistair Fitz",
+        "screentime": "11:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "LMD Leo Fitz",
+        "screentime": "11:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "\"Detective Luke\" Chronocom",
+        "screentime": "11:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Tucker Shockley",
+        "screentime": "11:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Polly Hinton",
+        "screentime": "11:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Sibyl",
+        "screentime": "11"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Vijay Nadeer",
+        "screentime": "11"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Hope Mackenzie",
+        "screentime": "10:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Akela Amador",
+        "screentime": "10:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agnes Kitsworth",
+        "screentime": "10:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "LMD Holden Radcliffe",
+        "screentime": "10:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Altarah",
+        "screentime": "10"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Chan Ho Yin \/ Scorch",
+        "screentime": "10"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Sam Koenig",
+        "screentime": "9:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Maria Hill",
+        "screentime": "9:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Senator Christian Ward",
+        "screentime": "9:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Grill",
+        "screentime": "9:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Ruben Mackenzie",
+        "screentime": "9:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Eric Koenig",
+        "screentime": "9:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Hannah Hutchins",
+        "screentime": "9:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Ernest Koenig",
+        "screentime": "9"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Luther Banks",
+        "screentime": "9"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Isabelle \"Izzy\" Hartley",
+        "screentime": "8:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Faulnak",
+        "screentime": "8:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Alisha Whitley",
+        "screentime": "8"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Kebo",
+        "screentime": "7:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Edison Po",
+        "screentime": "7:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Miles Lydon",
+        "screentime": "7:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Lt. Evans",
+        "screentime": "7:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "LMD Phil Coulson",
+        "screentime": "7:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Stephanie Malick",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Samuel Voss",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Camilla Reyes",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Vin-Tak",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Ben",
+        "screentime": "7"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Malachi",
+        "screentime": "6:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Dr. Joseph Bauer",
+        "screentime": "6:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Felix Blake",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Li",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Dr. Franklin Hall",
+        "screentime": "6"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Taryan",
+        "screentime": "5:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Sequoia",
+        "screentime": "5:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Tony Caine",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Director Nick Fury",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Jasper Sitwell",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "President Matthew Ellis",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Trevor Khan",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Burrows",
+        "screentime": "5"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Boyle",
+        "screentime": "5"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Dr. List",
+        "screentime": "4:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Toad",
+        "screentime": "4:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "LMD Jeffrey Mace",
+        "screentime": "4:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Audrey Nathan",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Karla Faye Gideon",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Prince",
+        "screentime": "4"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Thomas Ward",
+        "screentime": "4"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Diaz",
+        "screentime": "4"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Charles Hinton",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Noah",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Oliver",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Marcus Daniels \/ Blackout",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Anton Petrov",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Peggy Carter",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "George Talbot",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Kenneth Turgeon",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent O'Brien",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Lucio",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Carla Talbot",
+        "screentime": "3"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Ava",
+        "screentime": "3"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Debbie",
+        "screentime": "3"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "LMD Alphonso Mackenzie",
+        "screentime": "3"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Candice Lee",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Kitson",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Calderon",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Thomas Nash",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Katya Belyakov",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Ace Peterson",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Dr. Streiten",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Agent Anderson",
+        "screentime": "2"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Thurston Koenig",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Wolfgang von Strucker",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "General Rick Stoner",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "LMD Jemma Simmons",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Alya Fitzsimmons",
+        "screentime": "1"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "LMDs Daisy Johnson",
+        "screentime": "1"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Baal-Gad",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Sgt. Timothy \"Dum Dum\" Dugan",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.",
+        "character": "Pvt. Jim Morita",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Thor",
+        "screentime": "35"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Dr. Jane Foster",
+        "screentime": "25"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Loki",
+        "screentime": "17:30"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Odin",
+        "screentime": "9"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Malekith",
+        "screentime": "8:45"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Darcy Lewis",
+        "screentime": "8:45"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Dr. Erik Selvig",
+        "screentime": "6:30"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Algrim",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Ian Boothby",
+        "screentime": "6"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Heimdall",
+        "screentime": "4:15"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Frigga",
+        "screentime": "4"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Sif",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Volstagg",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Richard",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Fandral",
+        "screentime": "2"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "The Collector",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Hogun",
+        "screentime": "1"
+    },
+    {
+        "movie": "Thor: The Dark World",
+        "character": "Carina",
+        "screentime": "1"
+    },
+    {
+        "movie": "Marvel One-Shot: All Hail the King",
+        "character": "Trevor Slattery",
+        "screentime": "7:45"
+    },
+    {
+        "movie": "Marvel One-Shot: All Hail the King",
+        "character": "Jackson Norriss",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Marvel One-Shot: All Hail the King",
+        "character": "Justin Hammer",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Steve Rogers \/ Captain America",
+        "screentime": "59"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Natasha Romanoff \/ Black Widow",
+        "screentime": "24:45"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Director Nick Fury",
+        "screentime": "15:30"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Sam Wilson \/ Falcon",
+        "screentime": "14:15"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "James \"Bucky\" Barnes \/ Winter Soldier",
+        "screentime": "13:15"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Alexander Pierce",
+        "screentime": "12:45"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Brock Rumlow",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Agent Jasper Sitwell",
+        "screentime": "4"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Agent Maria Hill",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Agent Sharon Carter",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Dr. Arnim Zola",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Peggy Carter",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Jack Rollins",
+        "screentime": "2"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Georges Batroc",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Baron Wolfgang von Strucker",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Dr. List",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Councilman Singh",
+        "screentime": "1"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Councilman Rockwell",
+        "screentime": "1"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Councilman Yen",
+        "screentime": "1"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Cameron Klein",
+        "screentime": "1"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Senator Stern",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Councilwoman Hawley",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Wanda Maximoff",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Captain America: The Winter Soldier",
+        "character": "Pietro Maximoff",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Peter Quill \/ Star-Lord",
+        "screentime": "46:45"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Gamora",
+        "screentime": "31"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Rocket",
+        "screentime": "19:30"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Drax",
+        "screentime": "18"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Groot",
+        "screentime": "14:45"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Ronan",
+        "screentime": "7:45"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Yondu Udonta",
+        "screentime": "6"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Nebula",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Rhomann Dey",
+        "screentime": "3"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "The Collector",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Nova Prime Irani Rael",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Korath",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Kraglin Obfonteri",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Meredith Quill",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Carina",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Thanos",
+        "screentime": "1"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Groot II",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "Denaarian Saal",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Guardians of the Galaxy",
+        "character": "The Other",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Agent Peggy Carter",
+        "screentime": "344:30"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Edwin Jarvis",
+        "screentime": "135:30"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Agent Daniel Sousa",
+        "screentime": "127:30"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Agent Jack Thompson",
+        "screentime": "106:15"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Whitney Frost \/ Madame Masque",
+        "screentime": "67:45"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Dr. Jason Wilkes",
+        "screentime": "61:45"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Agent Roger Dooley",
+        "screentime": "52"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "\"Dottie Underwood\"",
+        "screentime": "46"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Howard Stark",
+        "screentime": "40:45"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Dr. Johann Fenhoff \/ \"Victor Ivchenko\"",
+        "screentime": "30:45"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Vernon Masters",
+        "screentime": "26:30"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Calvin Chadwick",
+        "screentime": "20:15"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Joseph Manfredi",
+        "screentime": "19:45"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Ana Jarvis",
+        "screentime": "19:15"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Angie Martinelli",
+        "screentime": "18"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Dr. Aloysius Samberly",
+        "screentime": "16"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Rose Roberts",
+        "screentime": "11:45"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Hugh Jones",
+        "screentime": "8:45"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Miriam Fry",
+        "screentime": "7:30"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Violet",
+        "screentime": "7:30"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Sgt. Timothy \"Dum Dum\" Dugan",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Rufus Hunt",
+        "screentime": "6:45"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Agent Ray Krzeminski",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Leet Brannis",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Miles Van Ert",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Michael Carter",
+        "screentime": "3"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Dr. Arnim Zola",
+        "screentime": "1"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Anton Vanko",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Agent Carter",
+        "character": "Steve Rogers \/ Captain America",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Matt Murdock \/ Daredevil",
+        "screentime": "720:30"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Karen Page",
+        "screentime": "422:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Franklin \"Foggy\" Nelson",
+        "screentime": "278:45"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Wilson Fisk \/ Kingpin",
+        "screentime": "230:45"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Agent Rahul \"Ray\" Nadeem",
+        "screentime": "107"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Elektra Natchios",
+        "screentime": "105"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Frank Castle \/ The Punisher",
+        "screentime": "99:45"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Agent Ben \"Dex\" Poindexter",
+        "screentime": "94:45"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Ben Urich",
+        "screentime": "60:30"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Claire Temple",
+        "screentime": "57:45"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Vanessa Fisk",
+        "screentime": "55"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Stick",
+        "screentime": "53"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "James Wesley",
+        "screentime": "46:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Sister Maggie",
+        "screentime": "44:30"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Mitchell Ellison",
+        "screentime": "35:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Blake Tower",
+        "screentime": "33:30"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Father Lantom",
+        "screentime": "33"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Det. Brett Mahoney",
+        "screentime": "32"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Leland Owlsley",
+        "screentime": "25"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Vladimir Ranskahov",
+        "screentime": "23"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Nobu Yoshioka",
+        "screentime": "20:45"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Marci Stahl",
+        "screentime": "20:30"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Samantha Reyes",
+        "screentime": "19:30"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Jack Murdock",
+        "screentime": "18:45"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "SAC Tammy Hattley",
+        "screentime": "16:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Melvin Potter",
+        "screentime": "16"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Madame Gao",
+        "screentime": "16"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Elliot \"Grotto\" Grote",
+        "screentime": "14:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Benjamin Donovan",
+        "screentime": "13"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Seema Nadeem",
+        "screentime": "12:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Turk Barrett",
+        "screentime": "12"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Anatoly Ranskahov",
+        "screentime": "11:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Det. Carl Hoffman",
+        "screentime": "11"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "John Healy",
+        "screentime": "10:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Col. Ray Schoonover",
+        "screentime": "9"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Elena Cardenas",
+        "screentime": "9"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Doris Urich",
+        "screentime": "8"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Julie Barnes",
+        "screentime": "8"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Det. Christian Blake",
+        "screentime": "7:45"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Theo Nelson",
+        "screentime": "7:30"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Kevin Page",
+        "screentime": "7:30"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Marlene Fisk \/ \"Mrs. Vistain\"",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Hirochi",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Felix Manning",
+        "screentime": "7"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Stan Gibson",
+        "screentime": "6:45"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Bill Fisk",
+        "screentime": "6:30"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Todd",
+        "screentime": "6"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Shirley Benson",
+        "screentime": "5:45"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Dr. Eileen Mercer",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Paxton Page",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Sami Nadeem",
+        "screentime": "4"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Roscoe Sweeney",
+        "screentime": "4"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Jasper Evans",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Stewart Finney",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Judge Cynthia Batzer",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Rosalie Carbone",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Anna Nelson",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Edward Nelson",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Josie",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Mrs. Shelby",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Betsy Beatty",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Jeryn \"Jeri\" Hogarth",
+        "screentime": "1"
+    },
+    {
+        "movie": "Daredevil",
+        "character": "Capt. Streiber",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Tony Stark \/ Iron Man",
+        "screentime": "27:15"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Steve Rogers \/ Captain America",
+        "screentime": "21:45"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Dr. Bruce Banner \/ The Hulk",
+        "screentime": "20"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Natasha Romanoff \/ Black Widow",
+        "screentime": "18"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Ultron",
+        "screentime": "17"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Clint Barton \/ Hawkeye",
+        "screentime": "15"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Thor",
+        "screentime": "13:15"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Wanda Maximoff",
+        "screentime": "12"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Pietro Maximoff",
+        "screentime": "10"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Vision",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Laura Barton",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Dr. Helen Cho",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Maria Hill",
+        "screentime": "3"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Nick Fury",
+        "screentime": "3"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Ulysses Klau\u00eb",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Col. James \"Rhodey\" Rhodes \/ War Machine",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Baron Wolfgang von Strucker",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Dr. Erik Selvig",
+        "screentime": "1"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Sam Wilson \/ Falcon",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Heimdall",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Dr. List",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Cameron Klein",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Peggy Carter",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "Thanos",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "J.A.R.V.I.S.",
+        "screentime": "v"
+    },
+    {
+        "movie": "Avengers: Age of Ultron",
+        "character": "F.R.I.D.A.Y.",
+        "screentime": "v"
+    },
+    {
+        "movie": "WHIH News Front",
+        "character": "Christine Everhart",
+        "screentime": "9:15"
+    },
+    {
+        "movie": "WHIH News Front",
+        "character": "Scott Lang",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "WHIH News Front",
+        "character": "Darren Cross",
+        "screentime": "2"
+    },
+    {
+        "movie": "WHIH News Front",
+        "character": "President Matthew Ellis",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "WHIH News Front",
+        "character": "Steve Rogers \/ Captain America",
+        "screentime": "1"
+    },
+    {
+        "movie": "WHIH News Front",
+        "character": "Tony Stark \/ Iron Man",
+        "screentime": ":30"
+    },
+    {
+        "movie": "WHIH News Front",
+        "character": "Natasha Romanoff \/ Black Widow",
+        "screentime": ":30"
+    },
+    {
+        "movie": "WHIH News Front",
+        "character": "Brock Rumlow \/ Crossbones",
+        "screentime": ":15"
+    },
+    {
+        "movie": "WHIH News Front",
+        "character": "Clint Barton \/ Hawkeye",
+        "screentime": "x"
+    },
+    {
+        "movie": "WHIH News Front",
+        "character": "Wanda Maximoff",
+        "screentime": "x"
+    },
+    {
+        "movie": "WHIH News Front",
+        "character": "Sam Wilcon \/ Falcon",
+        "screentime": "x"
+    },
+    {
+        "movie": "WHIH News Front",
+        "character": "Col. James \"Rhodey\" Rhodes \/ War Machine",
+        "screentime": "x"
+    },
+    {
+        "movie": "WHIH News Front",
+        "character": "Secretary Thaddeus Ross",
+        "screentime": "x"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Scott Lang \/ Ant-Man",
+        "screentime": "50:30"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Dr. Hank Pym",
+        "screentime": "24:45"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Hope van Dyne",
+        "screentime": "15:45"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Darren Cross \/ Yellowjacket",
+        "screentime": "14:30"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Luis",
+        "screentime": "7"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Cassie Lang",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Officer Jim Paxton",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Sam Wilson \/ Falcon",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Dave",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Kurt",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Maggie Lang",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Mitchell Carson",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Howard Stark",
+        "screentime": "1"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Gale",
+        "screentime": "1"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Peggy Carter",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Janet van Dyne",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "Steve Rogers \/ Captain America",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Ant-Man",
+        "character": "James \"Bucky\" Barnes \/ Winter Soldier",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Jessica Jones",
+        "screentime": "986:30"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Patricia \"Trish\" Walker \/ Hellcat",
+        "screentime": "417:45"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Jeryn \"Jeri\" Hogarth",
+        "screentime": "207"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Malcolm Ducasse",
+        "screentime": "179"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Alisa Jones",
+        "screentime": "105:45"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Kevin Thompson \/ Kilgrave",
+        "screentime": "99:30"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Luke Cage",
+        "screentime": "81:30"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Erik Gelden",
+        "screentime": "80:45"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Dorothy Walker",
+        "screentime": "61:15"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Officer Will Simpson",
+        "screentime": "53:15"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Gregory Sallinger",
+        "screentime": "48:30"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Dr. Karl Malus",
+        "screentime": "31:45"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Oscar Arocho",
+        "screentime": "31:15"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Det. Eddy Costa",
+        "screentime": "31"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Kith Lyonne",
+        "screentime": "29"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Inez Green",
+        "screentime": "28"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Zaya",
+        "screentime": "20:45"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Hope Shlottman",
+        "screentime": "18:15"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Robyn",
+        "screentime": "17:15"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Pryce Cheng",
+        "screentime": "17"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Albert Thompson",
+        "screentime": "17"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Griffin Sinclair",
+        "screentime": "15:15"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Det. Oscar Clemons",
+        "screentime": "14:45"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Claire Temple",
+        "screentime": "14:30"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Wendy Ross-Hogarth",
+        "screentime": "11:15"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Pam",
+        "screentime": "11"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Brianna \"Berry\" Gelden",
+        "screentime": "10:30"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Stirling Adams",
+        "screentime": "10:15"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Gillian",
+        "screentime": "9:45"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Louise Thompson",
+        "screentime": "9"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Vido Arocho",
+        "screentime": "7:45"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Steven Benowitz",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Shane Rybeck",
+        "screentime": "6:45"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Ruben",
+        "screentime": "6:45"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Det. Ruth Sunday",
+        "screentime": "6:30"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Jackson",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Donald",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Audrey Eastman",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Peter Lyonne",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Maury Tuttlebaum",
+        "screentime": "4"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Linda Chao",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Robert \"Whizzer\" Coleman",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Clair",
+        "screentime": "3"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Nicole",
+        "screentime": "3"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Thembi Wallace",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Emma",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Dr. Reva Connors",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Turk Barrett",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Sgt. Brett Mahoney",
+        "screentime": "1"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Franklin \"Foggy\" Nelson",
+        "screentime": "1"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Brian Jones",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Jessica Jones",
+        "character": "Phillip Jones",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Steve Rogers \/ Captain America",
+        "screentime": "38:15"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Tony Stark \/ Iron Man",
+        "screentime": "37:15"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "James \"Bucky\" Barnes \/ Winter Soldier",
+        "screentime": "22"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Natasha Romanoff \/ Black Widow",
+        "screentime": "12"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Prince T'Challa \/ Black Panther",
+        "screentime": "11:30"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Wanda Maximoff",
+        "screentime": "10:45"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Helmut Zemo",
+        "screentime": "10:30"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Sam Wilson \/ Falcon",
+        "screentime": "10:15"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Peter Parker \/ Spider-Man",
+        "screentime": "8:30"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Vision",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Col. James \"Rhodey\" Rhodes \/ War Machine",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Scott Lang \/ Ant-Man",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Sharon Carter",
+        "screentime": "5"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Clint Barton \/ Hawkeye",
+        "screentime": "4:15"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Secretary Thaddeus Ross",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Brock Rumlow \/ Crossbones",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Maria Stark",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Howard Stark",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "King T'Chaka",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Everett Ross",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "May Parker",
+        "screentime": "1"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "Ayo",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Captain America: Civil War",
+        "character": "F.R.I.D.A.Y.",
+        "screentime": "v"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Luke Cage",
+        "screentime": "492:30"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Det. Misty Knight",
+        "screentime": "263:30"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Mariah Stokes Dillard",
+        "screentime": "238:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Hernan \"Shades\" Alvarez",
+        "screentime": "154:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Claire Temple",
+        "screentime": "106:30"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "John McIver \/ Bushmaster",
+        "screentime": "70:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Cornell \"Cottonmouth\" Stokes",
+        "screentime": "70:30"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Tilda Johnson",
+        "screentime": "68:30"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Willis Stryker \/ Diamondback",
+        "screentime": "47:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Det. Rafael Scarfe",
+        "screentime": "41"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Deputy Chief Priscilla Ridley",
+        "screentime": "34:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Rev. James Lucas",
+        "screentime": "32"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Bobby Fish",
+        "screentime": "28:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Darius \"Comanche\" Jones",
+        "screentime": "28:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Henry \"Pop\" Hunter",
+        "screentime": "24:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Raymond \"Piranha\" Jones",
+        "screentime": "21"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Danny Rand \/ Iron Fist",
+        "screentime": "19:15"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Capt. Tom Ridenhour",
+        "screentime": "19"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Dr. Noah Burstein",
+        "screentime": "18"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Zip",
+        "screentime": "17:15"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Paul \"Anansi\" Mackintosh",
+        "screentime": "17"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Dave \"D.W.\" Griffith",
+        "screentime": "16"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Det. Mark Bailey",
+        "screentime": "16"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Wilfredo \"Chico\" Diaz",
+        "screentime": "15:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Domingo Col\u00f3n",
+        "screentime": "15:30"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Dr. Reva Connors",
+        "screentime": "15"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Sugar",
+        "screentime": "14:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Sheldon Shaw",
+        "screentime": "14:30"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Det. Nandi Tyler",
+        "screentime": "14:15"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Candace Miller",
+        "screentime": "14"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Alex Wesley",
+        "screentime": "13:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Dr. Gabe Krasner",
+        "screentime": "12:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Benjamin Donovan",
+        "screentime": "11:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "\"Mama\" Mabel Stokes",
+        "screentime": "11:15"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Dontrell \"Cockroach\" Hamilton",
+        "screentime": "10:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Lt. Perez",
+        "screentime": "9:15"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Turk Barrett",
+        "screentime": "9"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Tone",
+        "screentime": "9"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Ingrid Mackintosh",
+        "screentime": "8:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Damon Boone",
+        "screentime": "7:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Reggie \"Squabbles\"",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "\"Pistol\" Pete Stokes",
+        "screentime": "7"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Rosalie Carbone",
+        "screentime": "6:30"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Franklin \"Foggy\" Nelson",
+        "screentime": "6:30"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Shameek Smith",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Thembi Wallace",
+        "screentime": "5:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Connie Lin",
+        "screentime": "5:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Albert Rackham",
+        "screentime": "5:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Soledad Temple",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Colleen Wing",
+        "screentime": "5"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Capt. Betty Audrey",
+        "screentime": "5"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Stephanie Miller",
+        "screentime": "4:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Blake Tower",
+        "screentime": "4"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Patricia Wilson",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Aisha Axton",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Hai-Qing Yang",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Etta Lucas",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Luke Cage",
+        "character": "Dana Stryker",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Doctor Strange",
+        "character": "Dr. Stephen Strange \/ Doctor Strange",
+        "screentime": "73:30"
+    },
+    {
+        "movie": "Doctor Strange",
+        "character": "Karl Mordo",
+        "screentime": "17:45"
+    },
+    {
+        "movie": "Doctor Strange",
+        "character": "The Ancient One",
+        "screentime": "17:15"
+    },
+    {
+        "movie": "Doctor Strange",
+        "character": "Kaecilius",
+        "screentime": "12:45"
+    },
+    {
+        "movie": "Doctor Strange",
+        "character": "Dr. Christine Palmer",
+        "screentime": "12:45"
+    },
+    {
+        "movie": "Doctor Strange",
+        "character": "Wong",
+        "screentime": "7"
+    },
+    {
+        "movie": "Doctor Strange",
+        "character": "Lucian",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "Doctor Strange",
+        "character": "Jonathan Pangborn",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Doctor Strange",
+        "character": "Dormammu",
+        "screentime": "2"
+    },
+    {
+        "movie": "Doctor Strange",
+        "character": "Dr. Nicodemus West",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Doctor Strange",
+        "character": "Thor",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.: Slingshot",
+        "character": "Agent Elena \"Yo-Yo\" Rodriguez",
+        "screentime": "19"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.: Slingshot",
+        "character": "Victor Ramon",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.: Slingshot",
+        "character": "Agent Daisy Johnson",
+        "screentime": "3"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.: Slingshot",
+        "character": "Agent Phil Coulson",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.: Slingshot",
+        "character": "Director Jeffrey Mace",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.: Slingshot",
+        "character": "Agent Melinda May",
+        "screentime": "2"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.: Slingshot",
+        "character": "Agent Alphonso \"Mack\" Mackenzie",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.: Slingshot",
+        "character": "Agent Leo Fitz",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Agents of S.H.I.E.L.D.: Slingshot",
+        "character": "Agent Jemma Simmons",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Danny Rand \/ Iron Fist",
+        "screentime": "500:15"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Colleen Wing",
+        "screentime": "286:45"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Ward Meachum",
+        "screentime": "199:45"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Joy Meachum",
+        "screentime": "189"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Davos \/ Steel Serpent",
+        "screentime": "130"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Harold Meachum",
+        "screentime": "91:45"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Mary Walker",
+        "screentime": "66"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Claire Temple",
+        "screentime": "54:45"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Det. Misty Knight",
+        "screentime": "50:15"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Bakuto",
+        "screentime": "35"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Madame Gao",
+        "screentime": "24:15"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "BB",
+        "screentime": "18:30"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Dr. Paul Edmonds",
+        "screentime": "16:15"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Bethany",
+        "screentime": "14:30"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Jeryn \"Jeri\" Hogarth",
+        "screentime": "13:15"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Sherry Yang",
+        "screentime": "12"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Chen Wu",
+        "screentime": "11:45"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Ryhno",
+        "screentime": "11:15"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Lawrence Wilkins",
+        "screentime": "11"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Hai-Qing Yang",
+        "screentime": "9:45"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Mika Prada",
+        "screentime": "8"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Radovan Bernivig",
+        "screentime": "7:45"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Darryl",
+        "screentime": "6"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Kyle",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Sam Chung",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Crank",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Megan",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Prya",
+        "screentime": "4:45"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Bride of Nine Spiders",
+        "screentime": "4:45"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Scythe",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Zhou Cheng",
+        "screentime": "4:15"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Grigori Veznikov",
+        "screentime": "4:15"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Andrei Veznikov",
+        "screentime": "4:15"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Avalon",
+        "screentime": "4:15"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "DK",
+        "screentime": "4:15"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Aiko",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Lei Kung",
+        "screentime": "3"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Turk Barrett",
+        "screentime": "2"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Y\u00fc-Ti",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Wendell Rand",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Heather Rand",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Shirley Benson",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Iron Fist",
+        "character": "Thembi Wallace",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Peter Quill \/ Star Lord",
+        "screentime": "35:45"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Gamora",
+        "screentime": "24"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Rocket",
+        "screentime": "19:45"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Ego",
+        "screentime": "17"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Drax",
+        "screentime": "16:30"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Yondu Udonta",
+        "screentime": "16:15"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Groot II",
+        "screentime": "14"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Mantis",
+        "screentime": "11"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Nebula",
+        "screentime": "10:30"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Kraglin Obfonteri",
+        "screentime": "4:45"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Taserface",
+        "screentime": "4:15"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Ayesha",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Stakar Ogord",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Meredith Quill",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Martinex T'Naga",
+        "screentime": "1"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Aleta Ogord",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Charlie-27",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Mainframe",
+        "screentime": "x"
+    },
+    {
+        "movie": "Guardians of the Galaxy Vol. 2",
+        "character": "Krugarr",
+        "screentime": "x"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Peter Parker \/ Spider-Man",
+        "screentime": "76:15"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Adrian Toomes \/ Vulture",
+        "screentime": "19"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Ned Leeds",
+        "screentime": "13:45"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Liz Toomes",
+        "screentime": "9:45"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Tony Stark \/ Iron Man",
+        "screentime": "8"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Harold \"Happy\" Hogan",
+        "screentime": "6"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Herman Schultz \/ The Shocker",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "May Parker",
+        "screentime": "4"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Phineas Mason \/ Tinkerer",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Michelle Jones",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Aaron Davis",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Jackson Brice \/ The Shocker",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Flash Thompson",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Roger Harrington",
+        "screentime": "2"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Mac Gargan",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Betty Brant",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Ann Marie Hoag",
+        "screentime": "1"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Steve Rogers \/ Captain America",
+        "screentime": "1"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Jason Ionello",
+        "screentime": "1"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Pepper Potts",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Spider-Man: Homecoming",
+        "character": "Karen",
+        "screentime": "v"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Luke Cage",
+        "screentime": "80:45"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Matt Murdock \/ Daredevil",
+        "screentime": "80:30"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Jessica Jones",
+        "screentime": "77:15"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Danny Rand \/ Iron Fist",
+        "screentime": "73:45"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Elektra Natchios \/ Black Sky",
+        "screentime": "52:15"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Alexandra Reid",
+        "screentime": "46:45"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Colleen Wing",
+        "screentime": "36:15"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Stick",
+        "screentime": "28:45"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Claire Temple",
+        "screentime": "21"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Det. Misty Knight",
+        "screentime": "19:45"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Madame Gao",
+        "screentime": "15:15"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Murakami",
+        "screentime": "14:15"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Karen Page",
+        "screentime": "12:15"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Franklin \"Foggy\" Nelson",
+        "screentime": "12"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Bakuto",
+        "screentime": "10:15"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Patricia \"Trish\" Walker",
+        "screentime": "8:30"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Sowande",
+        "screentime": "8"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Malcolm Ducasse",
+        "screentime": "5"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Capt. Streiber",
+        "screentime": "5"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Michelle Raymond",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Lexi Raymond",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Dolores",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Jeryn Hogarth",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Father Lantom",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Turk Barrett",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Shaft",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Nicole",
+        "screentime": ":30"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Marci Stahl",
+        "screentime": "x"
+    },
+    {
+        "movie": "The Defenders",
+        "character": "Josie",
+        "screentime": "x"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Maximus",
+        "screentime": "77"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Black Bolt",
+        "screentime": "70"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Medusa",
+        "screentime": "67"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Karnak",
+        "screentime": "54:30"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Crystal",
+        "screentime": "36:15"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Gorgon",
+        "screentime": "33:45"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Auran",
+        "screentime": "28:30"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Louise Fisher",
+        "screentime": "24:45"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Dr. Evan Declan",
+        "screentime": "16:30"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Jen",
+        "screentime": "15"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Bronaja",
+        "screentime": "11"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Dave",
+        "screentime": "10:45"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Tibor",
+        "screentime": "9:45"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Triton",
+        "screentime": "8:15"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Sammy",
+        "screentime": "8:15"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Kitang",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Lockjaw",
+        "screentime": "5:45"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Mordis",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "Queen Rynda",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Inhumans",
+        "character": "King Agon",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Thor",
+        "screentime": "58:45"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Dr. Bruce Banner \/ The Hulk",
+        "screentime": "17:15"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Valkyrie",
+        "screentime": "14:15"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Loki",
+        "screentime": "13:30"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Hela",
+        "screentime": "12:30"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Skurge",
+        "screentime": "6:45"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "The Grandmaster",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Heimdall",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Korg",
+        "screentime": "4"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Odin",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Surtur",
+        "screentime": "3"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Dr. Stephen Strange",
+        "screentime": "3"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Topaz",
+        "screentime": "2"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Fenriswolf",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Miek",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Hogun",
+        "screentime": "1"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Volstagg",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Fandral",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Thor: Ragnarok",
+        "character": "Natasha Romanoff \/ Black Widow",
+        "screentime": ":15"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Frank Castle \/ The Punisher",
+        "screentime": "440:15"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Billy Russo",
+        "screentime": "216:45"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Agent Dinah Madani",
+        "screentime": "197"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "David Lieberman \/ Micro",
+        "screentime": "112:30"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Amy Bendix",
+        "screentime": "106:15"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Curtis Hoyle",
+        "screentime": "87:30"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Dr. Krista Dumont",
+        "screentime": "73:30"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "John Pilgrim",
+        "screentime": "63:45"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Karen Page",
+        "screentime": "46:30"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Lewis Wilson",
+        "screentime": "39:30"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Sarah Lieberman",
+        "screentime": "36"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Det. Brett Mahoney",
+        "screentime": "33"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "William Rawlins",
+        "screentime": "28:45"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Agent Sam Stein",
+        "screentime": "27:30"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Beth Quinn",
+        "screentime": "22:45"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Marion James",
+        "screentime": "17:30"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Rafael Hernandez",
+        "screentime": "17:15"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Sheriff Hardin",
+        "screentime": "16:45"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Leo Lieberman",
+        "screentime": "15:45"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Jake Nelson",
+        "screentime": "13:30"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Zach Lieberman",
+        "screentime": "13"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Anderson Schultz",
+        "screentime": "11:15"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Eliza Schultz",
+        "screentime": "10"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "David Schultz",
+        "screentime": "9:30"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Maria Castle",
+        "screentime": "9"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Carson Wolf",
+        "screentime": "8:30"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Dr. Farah Madani",
+        "screentime": "8"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Donny Chavez",
+        "screentime": "8"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Marlena Olin",
+        "screentime": "8"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Gunner Henderson",
+        "screentime": "7:30"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Senator Stan Ori",
+        "screentime": "7:30"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Deputy Ken Ogden",
+        "screentime": "7:30"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Jos\u00e9",
+        "screentime": "7"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Turk Barrett",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Lisa Castle",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Frank Castle Jr.",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Mitchell Ellison",
+        "screentime": "3"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Maj. Ray Schoonover",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Ahmad Zubair",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "The Punisher",
+        "character": "Dr. Hamid Madani",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Nico Minoru",
+        "screentime": "293:45"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Chase Stein",
+        "screentime": "258:30"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Karolina Dean",
+        "screentime": "243:15"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Gert Yorkes",
+        "screentime": "233"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Alex Wilder",
+        "screentime": "231"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Molly Hernandez",
+        "screentime": "213:45"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Leslie Dean",
+        "screentime": "121:45"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Victor Stein",
+        "screentime": "104:15"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Jonah \/ The Magistrate",
+        "screentime": "102:45"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Tina Minoru",
+        "screentime": "102:30"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Geoffrey Wilder",
+        "screentime": "98:30"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Stacey Yorkes",
+        "screentime": "95:30"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Dale Yorkes",
+        "screentime": "87"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Janet Stein",
+        "screentime": "81:30"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Catherine Wilder",
+        "screentime": "68:15"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Robert Minoru",
+        "screentime": "65:56"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Frank Dean",
+        "screentime": "48:45"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Xavin",
+        "screentime": "38:30"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Darius Davis",
+        "screentime": "29:15"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Morgan le Fay",
+        "screentime": "28:30"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Livvie",
+        "screentime": "26:15"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "The Magistrate's Daughter",
+        "screentime": "25:15"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "The Magistrate's Wife",
+        "screentime": "24:30"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Old Lace",
+        "screentime": "22:30"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Topher",
+        "screentime": "20:30"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Tamar",
+        "screentime": "19"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Anthony \"AWOL\" Wall",
+        "screentime": "14:45"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Tyrone \"Ty\" Johnson \/ Cloak",
+        "screentime": "14:30"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Tandy Bowen \/ Dagger",
+        "screentime": "14:15"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "The Magistrate's Son",
+        "screentime": "11:30"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Vaughn Kaye",
+        "screentime": "9:30"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Destiny Gonzalez",
+        "screentime": "9"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Susan Ellerh",
+        "screentime": "8:30"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Detective Flores",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Alice Hernandez",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Gene Hernandez",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Marvels Runaways",
+        "character": "Amy Minoru",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "Black Panther",
+        "character": "King T'Challa \/ Black Panther",
+        "screentime": "48"
+    },
+    {
+        "movie": "Black Panther",
+        "character": "N'Jadaka \/ Erik \"Killmonger\" Stevens",
+        "screentime": "22:15"
+    },
+    {
+        "movie": "Black Panther",
+        "character": "Nakia",
+        "screentime": "16:45"
+    },
+    {
+        "movie": "Black Panther",
+        "character": "Princess Shuri",
+        "screentime": "14:30"
+    },
+    {
+        "movie": "Black Panther",
+        "character": "Okoye",
+        "screentime": "12:45"
+    },
+    {
+        "movie": "Black Panther",
+        "character": "Agent Everett Ross",
+        "screentime": "12"
+    },
+    {
+        "movie": "Black Panther",
+        "character": "Zuri",
+        "screentime": "8:15"
+    },
+    {
+        "movie": "Black Panther",
+        "character": "Ulysses Klau\u00eb",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Black Panther",
+        "character": "W'Kabi",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Black Panther",
+        "character": "Ramonda",
+        "screentime": "6:45"
+    },
+    {
+        "movie": "Black Panther",
+        "character": "M'Baku",
+        "screentime": "5:45"
+    },
+    {
+        "movie": "Black Panther",
+        "character": "King T'Chaka",
+        "screentime": "5"
+    },
+    {
+        "movie": "Black Panther",
+        "character": "N'Jobu",
+        "screentime": "4:15"
+    },
+    {
+        "movie": "Black Panther",
+        "character": "Ayo",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Black Panther",
+        "character": "Xoliswa",
+        "screentime": "1"
+    },
+    {
+        "movie": "Black Panther",
+        "character": "James \"Bucky\" Barnes \/ White Wolf",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Thanos",
+        "screentime": "31"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Gamora",
+        "screentime": "20"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Tony Stark \/ Iron Man",
+        "screentime": "17"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Thor",
+        "screentime": "15:15"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Dr. Stephen Strange",
+        "screentime": "11:15"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Peter Quill \/ Star-Lord",
+        "screentime": "10:15"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Vision",
+        "screentime": "10"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Dr. Bruce Banner \/ The Hulk",
+        "screentime": "9:30"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Wanda Maximoff",
+        "screentime": "9"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Peter Parker \/ Spider-Man",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Steve Rogers",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Rocket",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Drax",
+        "screentime": "5:45"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Mantis",
+        "screentime": "5:45"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Natasha Romanoff \/ Black Widow",
+        "screentime": "5"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Ebony Maw",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Groot II",
+        "screentime": "4"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Proxima Midnight",
+        "screentime": "4"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Loki",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "King T'Challa \/ Black Panther",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Wong",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Cull Obsidian",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Corvus Glaive",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Nebula",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Col. James \"Rhodey\" Rhodes \/ War Machine",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Sam Wilson \/ Falcon",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Okoye",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Eitri",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "James \"Bucky\" Barnes \/ White Wolf",
+        "screentime": "2"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "The Stonekeeper",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Pepper Potts",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "M'Baku",
+        "screentime": "1"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Secretary Thaddeus Ross",
+        "screentime": "1"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Nick Fury",
+        "screentime": "1"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Maria Hill",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Princess Shuri",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Heimdall",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Taneleer Tivan \/ The Collector",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Ned Leeds",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Ayo",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Cindy Moon",
+        "screentime": "x"
+    },
+    {
+        "movie": "Avengers: Infinity War",
+        "character": "Sally Avril",
+        "screentime": "x"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Tandy Bowen \/ Dagger",
+        "screentime": "339"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Tyrone \"Ty\" Johnson \/ Cloak",
+        "screentime": "324"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Det. Brigid O'Reilly \/ Mayhem",
+        "screentime": "101:15"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Andre Deschaine",
+        "screentime": "39:15"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Evita Fusilier",
+        "screentime": "39"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Adina Johnson",
+        "screentime": "36"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Det. James Connors",
+        "screentime": "34"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Melissa Bowen",
+        "screentime": "26:45"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Mina Hess",
+        "screentime": "25"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Otis Johnson",
+        "screentime": "18:15"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Lia Dewan",
+        "screentime": "18:15"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Chantelle Fusilier",
+        "screentime": "18:15"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Ivan Hess",
+        "screentime": "17:30"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Liam Walsh",
+        "screentime": "17:30"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Father Francis Delgado",
+        "screentime": "15:45"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Duane Porter",
+        "screentime": "10:15"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Nathan Bowen",
+        "screentime": "8:15"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Peter Scarborough",
+        "screentime": "8:15"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Greg Pressfield",
+        "screentime": "6"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Officer Kenneth Fuchs",
+        "screentime": "6"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Del",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Rick Cotton",
+        "screentime": "4:45"
+    },
+    {
+        "movie": "Cloak & Dagger",
+        "character": "Billy Johnson",
+        "screentime": "4"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Scott Lang \/ Ant-Man",
+        "screentime": "42:30"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Hope van Dyne \/ The Wasp",
+        "screentime": "35"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Dr. Hank Pym",
+        "screentime": "23:45"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Ava Starr \/ Ghost",
+        "screentime": "12:45"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Janet van Dyne",
+        "screentime": "9:15"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Dr. Bill Foster",
+        "screentime": "8:30"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Luis",
+        "screentime": "8:30"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Cassie Lang",
+        "screentime": "7"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Sonny Burch",
+        "screentime": "7"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Agent James Woo",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Uzman",
+        "screentime": "3"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Kurt",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Dave",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Anitolov",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Maggie Lang",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Officer Jim Paxton",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Ant-Man and the Wasp",
+        "character": "Elihas Starr",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Carol Danvers \/ Vers \/ Captain Marvel",
+        "screentime": "65"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Agent Nick Fury",
+        "screentime": "22:30"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Talos",
+        "screentime": "13:45"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Yon-Rogg",
+        "screentime": "11:45"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Maria Rambeau",
+        "screentime": "11"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Monica Rambeau",
+        "screentime": "4:45"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Goose",
+        "screentime": "4:45"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Mar-Vell \/ Dr. Wendy Lawson",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Kree Supreme Intelligence",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Minn-Erva",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Korath",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Agent Phil Coulson",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Att-Lass",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Bron-Char",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Soren",
+        "screentime": "2"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Ronan",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Steve Rogers \/ Nomad",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Natasha Romanoff \/ Black Widow",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Dr. Bruce Banner",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Captain Marvel",
+        "character": "Col. James \"Rhodey\" Rhodes \/ War Machine",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Tony Stark \/ Iron Man",
+        "screentime": "34:45"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Steve Rogers \/ Captain America",
+        "screentime": "30:45"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Thor",
+        "screentime": "21:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Dr. Bruce Banner \/ The Hulk",
+        "screentime": "20"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Clint Barton \/ Ronin",
+        "screentime": "18"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Natasha Romanoff \/ Black Widow",
+        "screentime": "16"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Nebula",
+        "screentime": "16"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Scott Lang \/ Ant-Man",
+        "screentime": "13:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Thanos",
+        "screentime": "12:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "James \"Rhodey\" Rhodes \/ War Machine",
+        "screentime": "9:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Rocket",
+        "screentime": "8:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Carol Danvers \/ Captain Marvel",
+        "screentime": "6"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Gamora",
+        "screentime": "4:45"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Sam Wilson \/ Falcon",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Pepper Potts \/ Rescue",
+        "screentime": "4:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "The Ancient One",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Morgan Stark",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Howard Stark",
+        "screentime": "3"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Peter Parker \/ Spider-Man",
+        "screentime": "3"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Peter Quill \/ Star-Lord",
+        "screentime": "3"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Frigga",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Wanda Maximoff",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "James \"Bucky\" Barnes \/ White Wolf",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Valkyrie",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "King T'Challa \/ Black Panther",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Okoye",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Lila Barton",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Dr. Stephen Strange",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Hope van Dyne \/ The Wasp",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Princess Shuri",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Akihiko",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Loki",
+        "screentime": "1"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Groot II",
+        "screentime": "1"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Drax",
+        "screentime": "1"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Peggy Carter",
+        "screentime": "1"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Cassie Lang",
+        "screentime": "1"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "The Stonekeeper",
+        "screentime": "1"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Agent Jasper Sitwell",
+        "screentime": "1"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Korg",
+        "screentime": "1"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Ebony Maw",
+        "screentime": "1"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Mantis",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Harold \"Happy\" Hogan",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Agent Brock Rumlow",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Wong",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Alexander Pierce",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Laura Barton",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Cooper Barton",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Nathaniel Barton",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Dr. Hank Pym",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Miek",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Corvus Glaive",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Proxima Midnight",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Cull Obsidian",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Janet van Dyne",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Edwin Jarvis",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Dr. Jane Foster",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Ned Leeds",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "May Parker",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Secretary Thaddeus Ross",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Queen Ramonda",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "M'Baku",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Harley Keener",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Maria Hill",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Avengers: Endgame",
+        "character": "Nick Fury",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Peter Parker \/ Spider-Man",
+        "screentime": "67:30"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Quentin Beck \/ Mysterio",
+        "screentime": "21:15"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Michelle Jones",
+        "screentime": "19:30"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Ned Leeds",
+        "screentime": "14:30"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Betty Brant",
+        "screentime": "9:15"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Talos \/ \"Nick Fury\"",
+        "screentime": "8:45"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Harold \"Happy\" Hogan",
+        "screentime": "7:30"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Roger Harrington",
+        "screentime": "6"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Flash Thompson",
+        "screentime": "5:45"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Brad Davis",
+        "screentime": "5:45"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Julius Dell",
+        "screentime": "4:15"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Soren \/ \"Maria Hill\"",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "May Parker",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Josh",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Zoha",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Zach",
+        "screentime": "3"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Tyler",
+        "screentime": "3"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Sebastian",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Yasmin",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "William Ginter Riva",
+        "screentime": "2"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Dimitri",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Jason Ionello",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Nick Fury",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Tony Stark \/ Iron Man",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "J. Jonah Jameson",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Spider-Man: Far from Home",
+        "character": "Obadiah Stane",
+        "screentime": "x"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Daimon Helstrom",
+        "screentime": "143:15"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Ana Helstrom",
+        "screentime": "133:15"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Gabriella Rosetti",
+        "screentime": "99:45"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Victoria Helstrom",
+        "screentime": "67:15"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Dr. Louise Hastings",
+        "screentime": "60"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Caretaker",
+        "screentime": "46:30"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Kthara\/Lilith",
+        "screentime": "42:30"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Chris Yen",
+        "screentime": "33:30"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Basar",
+        "screentime": "26:45"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Magoth",
+        "screentime": "12:45"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Keith Spivey",
+        "screentime": "12:45"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Esther Smith",
+        "screentime": "9:30"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Raum",
+        "screentime": "8:30"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Father Joshua Crow",
+        "screentime": "8:30"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Bryce",
+        "screentime": "8:30"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Derrick Jackson",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Finn Miller",
+        "screentime": "7"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "Alex Tilden",
+        "screentime": "6:45"
+    },
+    {
+        "movie": "Helstrom",
+        "character": "\"Papa\"",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Steve Rogers \/ Captain America",
+        "screentime": "15:30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Natasha Romanoff \/ Black Widow",
+        "screentime": "12:15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Clint Barton \/ Hawkeye",
+        "screentime": "8:15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Tony Stark \/ Iron Man",
+        "screentime": "8"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Wanda Maximoff",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "James \"Bucky\" Barnes \/ Winter Soldier",
+        "screentime": "7"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Loki Laufeyson",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Sam Wilson \/ Falcon",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Vision",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Thor Odinson",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Agent Peggy Carter",
+        "screentime": "4"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Yondu Udonta",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Sharon Carter",
+        "screentime": "3"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Peter Quill \/ Star-Lord",
+        "screentime": "3"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Thanos",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Nick Fury",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Dr. Bruce Banner \/ The Hulk",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Helmut Zemo",
+        "screentime": "2"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Kraglin Obfonteri",
+        "screentime": "2"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "James \"Rhodey\" Rhodes \/ War Machine",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Ultron",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "King T'Challa",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Carol Danvers \/ Captain Marvel",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Rocket",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Pietro Maximoff",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Howard Stark",
+        "screentime": "1"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Brock Rumlow \/ Crossbones",
+        "screentime": "1"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Alexander Pierce",
+        "screentime": "1"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Trevor Slattery",
+        "screentime": "1"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Gamora",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Drax",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Corvus Glaive",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Thaddeus Ross",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Col. Chester Phillips",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Laura Barton",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Groot",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Ego",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Okoye",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Odin Allfather",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Proxima Midnight",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Johann Schmidt \/ Red Skull",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Lila Barton",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Cooper Barton",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Dr. Stephen Strange",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Scott Lang \/ Ant-Man",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Peter Parker \/ Spider-Man",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "M'Baku",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Everett Ross",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Wolfgang von Strucker",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Cameron Klein",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Ebony Maw",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Cull Obsidian",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Frigga",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Laufey",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Sif",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Volstagg",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Fandral",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Hogun",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Hela",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Skurge",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Dr. Jane Foster",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Valkyrie",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Dr. Erik Selvig",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Yon-Rogg",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Maria Hill",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Mantis",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Ronan the Accuser",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Nebula",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Taserface",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Phil Coulson",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Dr. Abraham Erskine",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Xu Shang-Chi",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Xu Wenwu",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Jackson Norris",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Nathaniel Barton",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Yelena Belova",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Marvel Studios: Legends",
+        "character": "Akihiko",
+        "screentime": ":15"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Wanda Maximoff \/ The Scarlet Witch",
+        "screentime": "126:45"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Vision",
+        "screentime": "80"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Monica Rambeau",
+        "screentime": "37:45"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Agatha Harkness \/ \"Agnes\"",
+        "screentime": "36"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Jimmy Woo",
+        "screentime": "19"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Dr. Darcy Lewis",
+        "screentime": "18:45"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Tommy Maximoff",
+        "screentime": "17:30"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Billy Maximoff",
+        "screentime": "17"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Director Tyler Hayward",
+        "screentime": "13:15"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Ralph Boehner \/ \"Pietro Maximoff\"",
+        "screentime": "8"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Sharon Davis \/ \"Mrs. Hart\"",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "\"Mr. Hart",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "John Collins \/ \"Herb\"",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Abilash Tandon \/ \"Norm\"",
+        "screentime": "5"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Sarah Proctor \/ \"Dottie\"",
+        "screentime": "4:45"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Agent Rodriguez",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Harold Proctor \/ \"Phil\"",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Isabel Matsueda \/ \"Beverly\"",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Pietro Maximoff",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Sparky",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Iryan Maximoff",
+        "screentime": "1"
+    },
+    {
+        "movie": "WandaVision",
+        "character": "Olek Maximoff",
+        "screentime": "1"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "Sam Wilson \/ Falcon",
+        "screentime": "99:45"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "James \"Bucky\" Barnes \/ Winter Soldier",
+        "screentime": "74"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "John Walker \/ Captain America",
+        "screentime": "37"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "Karli Morgenthau",
+        "screentime": "27"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "Baron Helmut Zemo",
+        "screentime": "20:45"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "Sarah Wilson",
+        "screentime": "11:45"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "Lemar Hoskins \/ Battlestar",
+        "screentime": "11"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "Sharon Carter",
+        "screentime": "10:30"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "Isaiah Bradley",
+        "screentime": "8:45"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "Dovich",
+        "screentime": "8"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "Joaquin Torres",
+        "screentime": "7:30"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "Dr. Christina Raynor",
+        "screentime": "5:30"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "Georges Batroc",
+        "screentime": "4:45"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "Olivia Walker",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "Ayo",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "Contessa Valentina Allegra de Fontaine",
+        "screentime": "3"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "Eli Bradley",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "The Falcon and the Winter Soldier",
+        "character": "James \"Rhodey\" Rhodes \/ War Machine",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Loki",
+        "character": "all Loki variants total",
+        "screentime": "160:45"
+    },
+    {
+        "movie": "Loki",
+        "character": "Loki (protagonist)",
+        "screentime": "131:15"
+    },
+    {
+        "movie": "Loki",
+        "character": "Sylvie",
+        "screentime": "73:15"
+    },
+    {
+        "movie": "Loki",
+        "character": "Mobius",
+        "screentime": "57"
+    },
+    {
+        "movie": "Loki",
+        "character": "Judge Renslayer",
+        "screentime": "22:15"
+    },
+    {
+        "movie": "Loki",
+        "character": "Hunter B-15",
+        "screentime": "19:30"
+    },
+    {
+        "movie": "Loki",
+        "character": "\"He Who Remains\"",
+        "screentime": "14:30"
+    },
+    {
+        "movie": "Loki",
+        "character": "Classic Loki",
+        "screentime": "9:30"
+    },
+    {
+        "movie": "Loki",
+        "character": "Kid Loki",
+        "screentime": "6"
+    },
+    {
+        "movie": "Loki",
+        "character": "Hunter C-20",
+        "screentime": "4"
+    },
+    {
+        "movie": "Loki",
+        "character": "Miss Minutes",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "Loki",
+        "character": "Black Loki",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "Loki",
+        "character": "Gator Loki",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "Loki",
+        "character": "Casey",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Loki",
+        "character": "Lady Sif",
+        "screentime": "2"
+    },
+    {
+        "movie": "Loki",
+        "character": "Thor",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Loki",
+        "character": "President Loki",
+        "screentime": "1"
+    },
+    {
+        "movie": "Loki",
+        "character": "Tony Stark \/ Iron Man",
+        "screentime": "1"
+    },
+    {
+        "movie": "Loki",
+        "character": "Steve Rogers \/ Captain America",
+        "screentime": "1"
+    },
+    {
+        "movie": "Loki",
+        "character": "Bruce Banner \/ The Hulk",
+        "screentime": "1"
+    },
+    {
+        "movie": "Loki",
+        "character": "Natasha Romanoff \/ Black Widow",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Loki",
+        "character": "Clint Barton \/ Hawkeye",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Loki",
+        "character": "Frigga",
+        "screentime": ":45"
+    },
+    {
+        "movie": "Loki",
+        "character": "Odin",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Loki",
+        "character": "Thanos",
+        "screentime": ":15"
+    },
+    {
+        "movie": "Loki",
+        "character": "Valkyrie",
+        "screentime": "x"
+    },
+    {
+        "movie": "Loki",
+        "character": "Phil Coulson",
+        "screentime": "x"
+    },
+    {
+        "movie": "Loki",
+        "character": "Algrim",
+        "screentime": "x"
+    },
+    {
+        "movie": "Loki",
+        "character": "Scott Lang \/ Ant-Man",
+        "screentime": "x"
+    },
+    {
+        "movie": "Black Widow",
+        "character": "Natasha Romanoff \/ Black Widow",
+        "screentime": "65:30"
+    },
+    {
+        "movie": "Black Widow",
+        "character": "Yelena Belova",
+        "screentime": "41"
+    },
+    {
+        "movie": "Black Widow",
+        "character": "Alexei Shostakov",
+        "screentime": "24:15"
+    },
+    {
+        "movie": "Black Widow",
+        "character": "Melina Vostkoff",
+        "screentime": "20:45"
+    },
+    {
+        "movie": "Black Widow",
+        "character": "General Viktor Dreykov",
+        "screentime": "10:15"
+    },
+    {
+        "movie": "Black Widow",
+        "character": "Antonia Dreykov \/ Taskmaster",
+        "screentime": "9:30"
+    },
+    {
+        "movie": "Black Widow",
+        "character": "Rick Mason",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "Black Widow",
+        "character": "Lerato",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Black Widow",
+        "character": "Ingrid",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "Black Widow",
+        "character": "Oksana",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "Black Widow",
+        "character": "Contessa Valentina de Fontaine",
+        "screentime": "1"
+    },
+    {
+        "movie": "Black Widow",
+        "character": "Thaddeus Ross",
+        "screentime": ":45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Dr. Stephen Strange",
+        "screentime": "30:30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Captain Peggy Carter",
+        "screentime": "22:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "T'Challa \/ Star-Lord \/ Black Panther",
+        "screentime": "22"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Thor Odinson",
+        "screentime": "18:45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Natasha Romanoff \/ Black Widow",
+        "screentime": "18"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Erik \"Killmonger\" Stevens \/ Black Panther",
+        "screentime": "16:30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Ultron",
+        "screentime": "15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "The Watcher",
+        "screentime": "12:30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Tony Stark \/ Iron Man",
+        "screentime": "9:30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Clint Barton \/ Hawkeye",
+        "screentime": "9:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Dr. Bruce Banner \/ The Hulk",
+        "screentime": "8:30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Nick Fury",
+        "screentime": "7:45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Steve Rogers \/ Captain America \/ Hydra Stomper",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "James \"Bucky\" Barnes \/ Winter Soldier",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Dr. Jane Foster",
+        "screentime": "7:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Peter Parker \/ Spider-Man",
+        "screentime": "7"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Loki Laufeyson",
+        "screentime": "6:30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Carol Danvers \/ Captain Marvel",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Yondu Udonta",
+        "screentime": "6"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Okoye",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Korath",
+        "screentime": "4:30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Hope van Dyne \/ The Wasp",
+        "screentime": "4:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Dr. Christine Palmer",
+        "screentime": "4:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Dr. Arnim Zola",
+        "screentime": "4"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Gamora",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "King T'Chaka",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Taneleer Tivan \/ The Collector",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Nebula",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Howard Stark",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Kurt",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Agent Phil Coulson",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Thanos",
+        "screentime": "3:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Dr. Hank Pym \/ Yellowjacket",
+        "screentime": "3"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Pepper Potts",
+        "screentime": "3"
+    },
+    {
+        "movie": "What If...?",
+        "character": "The Ancient One",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Frigga",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Darcy Lewis",
+        "screentime": "2:45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Lady Sif",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Johann Schmidt \/ Red Skull",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Vision",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "O'Bengh",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Lt. Col. James \"Rhodey\" Rhodes",
+        "screentime": "2"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Wong",
+        "screentime": "2"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Scott Lang \/ Ant-Man",
+        "screentime": "2"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Sharon Carter",
+        "screentime": "2"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Queen Ramonda",
+        "screentime": "2"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Taserface",
+        "screentime": "2"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Harold \"Happy\" Hogan",
+        "screentime": "2"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Fandral",
+        "screentime": "2"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Princess Shuri",
+        "screentime": "2"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Maria Hill",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Dr. Betty Ross",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Kraglin Obfonteri",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Sgt. Timothy \"Dum Dum\" Dugan",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Cull Obsidian",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Ulysses Klau\u00eb",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Wanda Maximoff",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Col. John Flynn",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Gen. Thaddeus \"Thunderbolt\" Ross",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Brock Rumlow \/ Crossbones",
+        "screentime": "1:30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Ebony Maw",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Hogun",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Volstagg",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Howard the Duck",
+        "screentime": "1:15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Carina",
+        "screentime": "1"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Pvt. James Montgomery Falsworth",
+        "screentime": "1"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Pvt. Gabe Jones",
+        "screentime": "1"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Proxmia Midnight",
+        "screentime": ":45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Obadiah Stane",
+        "screentime": ":45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Odin Allfather",
+        "screentime": ":45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Drax",
+        "screentime": ":45"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Sam Wilson \/ Falcon",
+        "screentime": ":30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Pvt. Jacques Dernier",
+        "screentime": ":30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Korg",
+        "screentime": ":30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Peter Quill",
+        "screentime": ":30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Heimdall",
+        "screentime": ":30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Georges Batroc",
+        "screentime": ":30"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Ego",
+        "screentime": ":15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Corvus Glaive",
+        "screentime": ":15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Dr. Abraham Erskine",
+        "screentime": ":15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Heinz Kruger",
+        "screentime": ":15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Janet van Dyne",
+        "screentime": ":15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Christine Everhart",
+        "screentime": ":15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "The Grandmaster",
+        "screentime": ":15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Topaz",
+        "screentime": ":15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Mantis",
+        "screentime": ":15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Valkyrie",
+        "screentime": ":15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Surtur",
+        "screentime": ":15"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Rocket",
+        "screentime": "x"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Skurge",
+        "screentime": "x"
+    },
+    {
+        "movie": "What If...?",
+        "character": "King Laufey",
+        "screentime": "x"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Eitri",
+        "screentime": "x"
+    },
+    {
+        "movie": "What If...?",
+        "character": "Dormammu",
+        "screentime": "x"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Xu Shang-Chi \/ \"Shaun\"",
+        "screentime": "63"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Katy Chen",
+        "screentime": "31:15"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Xu Wenwu",
+        "screentime": "27"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Xu Xialing",
+        "screentime": "22"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Ying Nan",
+        "screentime": "7:45"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Ying Li",
+        "screentime": "6:30"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Trevor Slattery",
+        "screentime": "6:15"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Razor Fist",
+        "screentime": "6"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Morris",
+        "screentime": "5:15"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "The Great Protector",
+        "screentime": "4:15"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "The Dweller in Darkness",
+        "screentime": "3:45"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Soo",
+        "screentime": "3:30"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "John",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Jon Jon",
+        "screentime": "2:30"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Death Dealer",
+        "screentime": "2:15"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Wong",
+        "screentime": "2"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Master Guang Bo",
+        "screentime": "1:45"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Emil Blonsky \/ Abomination",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Dr. Bruce Banner",
+        "screentime": ":30"
+    },
+    {
+        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "character": "Carol Danvers \/ Captain Marvel",
+        "screentime": ":15"
+    }
+]
